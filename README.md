@@ -18,3 +18,7 @@ This project demonstrates an end-to-end Data Analytics workflow using a Kaggle d
    .Developed an interactive Power BI dashboard
    .Visualized customer trends, shopping patterns, and business KPIs
    .Enabled stakeholders to make informed, data-driven decisions through dynamic reports and insights
+
+
+   <img width="594" height="437" alt="image" src="https://github.com/user-attachments/assets/f496a899-72d9-4fc0-9158-3620383d1a35" />
+
