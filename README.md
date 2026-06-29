@@ -19,10 +19,12 @@ This project demonstrates an end-to-end Data Analytics workflow using a Kaggle d
    .Visualized customer trends, shopping patterns, and business KPIs
    .Enabled stakeholders to make informed, data-driven decisions through dynamic reports and insights
 
-
    <img width="594" height="437" alt="image" src="https://github.com/user-attachments/assets/f496a899-72d9-4fc0-9158-3620383d1a35" />
    
-   #Dashboard_2
+## Dashboard_1
+<img width="761" height="430" alt="image" src="https://github.com/user-attachments/assets/a379fbf5-35c3-4e90-b78b-cfbe16b907ab" />
+
+## Dashboard_2
    <img width="761" height="426" alt="image" src="https://github.com/user-attachments/assets/367fe625-04fd-481e-9816-b2a45de00d44" />
 
 
