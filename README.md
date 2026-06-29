@@ -25,7 +25,8 @@ This project demonstrates an end-to-end Data Analytics workflow using a Kaggle d
 <img width="761" height="430" alt="image" src="https://github.com/user-attachments/assets/a379fbf5-35c3-4e90-b78b-cfbe16b907ab" />
 
 ## Dashboard_2
-   <img width="761" height="426" alt="image" src="https://github.com/user-attachments/assets/367fe625-04fd-481e-9816-b2a45de00d44" />
+<img width="738" height="416" alt="image" src="https://github.com/user-attachments/assets/54d17fd7-f80e-4770-8d57-f2de6088f2dd" />
+
 
 
 
